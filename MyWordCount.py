@@ -8,7 +8,7 @@ import os
 import sys
 import re
 
-BUFFER_SIZE = 4096  # bytes to read at a time
+BUFFER_SIZE = 8192 # bytes to read at a time
 
 # Function to read entire file content
 # @Param path: file path to read
